@@ -1,0 +1,3 @@
+Hello Git!
+
+This is my first file tracked using Git.
