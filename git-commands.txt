@@ -1,0 +1,7 @@
+Git Commands I'm Learning 🚀
+
+git init    - Initialize a Git repository
+git clone   - Clone an existing repository
+git status  - Check repository status
+git branch  - View branches
+git switch  - Switch between branches
